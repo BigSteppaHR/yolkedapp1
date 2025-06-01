@@ -34,8 +34,6 @@
     "expo-status-bar": "~2.2.3",
     "lottie-react-native": "7.2.2",
     "lucide-react-native": "^0.363.0",
-    "metro": "^0.80.9",
-    "metro-resolver": "^0.80.9",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.3",
